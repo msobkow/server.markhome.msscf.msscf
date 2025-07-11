@@ -1,4 +1,4 @@
 # server.markhome.msscf.msscf
 MSS Code Factory 3.0
 
-server.markhome.msscf is a virtual environment within my home network, as this project is under internal development only at this point; this code release is just a preview, though you could fork the code and give it a proper domain name for the fork. I'd rather no one did that, though, as I do intend to host this project properly at some point over the next 12-18 months - I have other issues requiring my budgetary focus at this time.
+The logical domain server.markhome.msscf is not registered and hosted on the public internet, as this project is currently under internal development and virtually hosted in my own network. This code release is a preview, and I don't expect to be doing a production release until late 2026 to mid 2027. There is an incredible amount of code that needs refreshing and updating to fit my new visions of "how to internet."
